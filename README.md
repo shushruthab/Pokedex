@@ -1,6 +1,6 @@
 ## Pokedex React App
 
-![Final App](/pokedex.png)
+![Final App](/Pokedex.png)
 
 ## Project Details
 
